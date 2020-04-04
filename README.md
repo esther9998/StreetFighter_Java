@@ -1,7 +1,7 @@
 # StreetFighter_Java
 The purpose of the Java project is to learn how to formulate a simple Java problem/task/application and to experience how to solve it using methods, algorithms and techniques taught in class. 
 - 3members made it at 2017 May
-- This project has chatboard and beattle function through socket connection.
+- This project has login, sending a message, chatting and battle functions through socket connection.
 - https://esther9998.github.io/publications/
 
 # Project Timeline
